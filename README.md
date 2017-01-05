@@ -1,2 +1,4 @@
 # hexchat-vlcnp
-VLC Now Playing / Foobar2000
+HexChat 'now playing' script for VLC media player
+
+(Also supports Foobar2000)
